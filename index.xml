@@ -5,8 +5,7 @@
     <link>https://alfredohuitron.com/</link>
     <description>Recent content on Alfredo Huitron</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 09 Feb 2023 22:51:29 -0800</lastBuildDate><atom:link href="https://alfredohuitron.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://alfredohuitron.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Projects</title>
       <link>https://alfredohuitron.com/projects/</link>
@@ -14,15 +13,6 @@
       
       <guid>https://alfredohuitron.com/projects/</guid>
       <description>This page will be empty for a while until I get some projects off the ground. ETA is soonish.</description>
-    </item>
-    
-    <item>
-      <title>Testing this feature</title>
-      <link>https://alfredohuitron.com/writing/my-first-post/</link>
-      <pubDate>Thu, 09 Feb 2023 22:51:29 -0800</pubDate>
-      
-      <guid>https://alfredohuitron.com/writing/my-first-post/</guid>
-      <description>A lot of things to think through. Will come back to this.</description>
     </item>
     
     <item>
